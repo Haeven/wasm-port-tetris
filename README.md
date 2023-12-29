@@ -30,11 +30,9 @@
 > Tetris in Python (Now In the Browser) - Powered by WebAssembly
 
 # Installation
-<pre>
-    <li> Clone or fork repo</li>
-    <li> Navigate to the repo directory</li>
-    <li> Run the installation command below</li>
-</pre>
+<li> Clone or fork repo</li>
+<li> Navigate to the repo directory</li>
+<li> Run the installation command below</li>
 
 ```
 pip3 install pygame
