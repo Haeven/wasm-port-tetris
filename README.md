@@ -35,7 +35,9 @@
 <li> Clone the repo
 <li> Navigate to the directory
 <li> Run
-<pre />
+
+<pre></pre>
+
 ```
 pip3 install pygame
 ```
