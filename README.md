@@ -30,11 +30,10 @@
 > Tetris in Python (Now In the Browser) - Powered by WebAssembly
 
 # Installation
-
 <pre>
     <li> Clone or fork repo
     <li> Navigate to the repo directory
-    <li> Follow the instructions below
+    <li> Follow the installation command below
 </pre>
 
 ```
