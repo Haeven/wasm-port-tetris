@@ -35,7 +35,7 @@
 <li> Run the installation command below</li>
 <br></br>
 
-```
+```bash
 pip3 install pygame
 ```
 
