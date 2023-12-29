@@ -34,6 +34,7 @@
 <li> Navigate to the repo directory</li>
 <li> Run the installation command below</li>
 <br></br>
+
 ```
 pip3 install pygame
 ```
