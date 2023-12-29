@@ -32,10 +32,9 @@
 # Installation
 
 <pre>
-    <li> Fork the repo
-    <li> Clone the repo
-    <li> Navigate to the directory
-    <li> Run
+    <li> Clone or fork repo
+    <li> Navigate to the repo directory
+    <li> Follow the instructions below
 </pre>
 
 ```
