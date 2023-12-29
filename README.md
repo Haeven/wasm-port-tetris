@@ -33,7 +33,7 @@
 <pre>
     <li> Clone or fork repo
     <li> Navigate to the repo directory
-    <li> Follow the installation command below
+    <li> Run the installation command below
 </pre>
 
 ```
