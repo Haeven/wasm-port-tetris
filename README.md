@@ -31,9 +31,9 @@
 
 # Installation
 <pre>
-    <li> Clone or fork repo
-    <li> Navigate to the repo directory
-    <li> Run the installation command below
+    <li> Clone or fork repo</li>
+    <li> Navigate to the repo directory</li>
+    <li> Run the installation command below</li>
 </pre>
 
 ```
