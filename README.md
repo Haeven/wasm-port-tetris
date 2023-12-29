@@ -17,19 +17,18 @@
 # Table of Contents
 
 - [Description](#description)
-- [Installation](#installation)
+- [Installation](#install)
 - [Usage](#usage)
-- [Screenshots](#screenshots)
-- [About the author](#about-the-author)
-- [Contribution](#contribution)
-- [Support Us](#show-your-support)
+- [Requirements](#Requirements)
+- [About info](#Author-info)
+- [Support](#show-your-support)
 - [License](#license)
 
 # Description
 
 > Tetris in Python (Now In the Browser) - Powered by WebAssembly
 
-# Installation
+# Install
 <li> Clone or fork repo</li>
 <li> Navigate to the repo directory</li>
 <li> Run the installation command below</li>
@@ -44,8 +43,6 @@ pip3 install pygame
 ```
 python main.py
 ```
-
-# Screenshots
 
 # Author info
 
