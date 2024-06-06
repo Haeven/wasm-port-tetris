@@ -14,6 +14,9 @@
     </a>
 </p>
 
+Example out of browser:
+![Screenshot 2023-12-28 at 3 33 46 PM](https://github.com/Haeven/wasm-port-tetris/assets/42015067/604c0842-433e-4e6b-a6a4-18bb0b031c66)
+
 # Table of Contents
 
 - [Description](#description)
