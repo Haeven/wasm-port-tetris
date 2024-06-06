@@ -29,7 +29,7 @@ Example out of browser:
 
 # Description
 
-> Tetris in Python (Now In the Browser) - Powered by WebAssembly
+> My version of Tetris in Python (now ported to the browser) - powered by WebAssembly!
 
 # Install
 <li> Clone or fork repo</li>
