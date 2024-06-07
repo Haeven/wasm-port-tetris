@@ -31,6 +31,9 @@ Example out of browser:
 
 > My version of Tetris in Python (now ported to the browser) - powered by WebAssembly!
 
+Original desktop:
+https://github.com/Haeven/py-tetris
+
 # Install
 <li> Clone or fork repo</li>
 <li> Navigate to the repo directory</li>
